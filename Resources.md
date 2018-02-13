@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Mathematics](Mathematics)
   - [Linear Algebra](Linear-Algebra)
+  - [Calculus](Calculus)
   - [Probability Theory](Probability-Theory)
   - [Information Theory](Information-Theory)
 - [Computer Science](Computer-Science)
@@ -15,6 +16,7 @@
 ## Mathematics
 
 ### Linear Algebra
+### Calculus
 ### Probability Theory
 ### Information Theory
 
