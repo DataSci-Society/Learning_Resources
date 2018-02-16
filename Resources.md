@@ -16,6 +16,9 @@
 ## Mathematics
 
 ### Linear Algebra
+
+- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ### Calculus
 ### Probability Theory
 ### Information Theory
