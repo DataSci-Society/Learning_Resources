@@ -18,7 +18,7 @@
 ### Linear Algebra
 
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra Done Right - Sheldon Axler](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 
 ### Calculus
