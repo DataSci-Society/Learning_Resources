@@ -36,5 +36,14 @@
 ## Machine Learning & Artificial Intelligence
 
 ### Classical Machine Learning
+
+- [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
 ### Deep Learning
+
+- [Practical Deep Learning for Coders - fast.ai](http://course.fast.ai/)
+- [Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&campaignid=904733485&adgroupid=45435009512&device=c&keyword=deep%20learning%20coursera&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=231631799240&hide_mobile_promo&gclid=CjwKCAiA8bnUBRA-EiwAc0hZkxlgiRTxK0tvoLpyIh1rSLmZixn_dA-c-hAFqKWTTGLJqoaY6SrIZBoC_-gQAvD_BwE)
+
+
+
 ### Reinforcement Learning
