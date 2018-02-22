@@ -7,7 +7,7 @@
   - Probability Theory
   - Information Theory
 - Computer Science
-  - Programming
+  - Programming and Data Analysis
 - Machine Learning & Artificial Intelligence
   - Classical Machine Learning
   - Deep Learning
@@ -31,7 +31,7 @@
 
 ## Computer Science
 
-### Programming
+### Programming and Data Analysis
 
 ## Machine Learning & Artificial Intelligence
 
