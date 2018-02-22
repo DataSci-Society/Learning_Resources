@@ -19,8 +19,10 @@
 ### Linear Algebra
 
 - [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 - [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [Linear Algebra Done Right - Sheldon Axler](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+- [Computational Linear Algebra - fast.ai](http://www.fast.ai/2017/07/17/num-lin-alg/)
 
 ### Calculus
 
