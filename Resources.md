@@ -27,6 +27,7 @@
 ### Calculus
 
 - [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Calculus - Khan Academy](https://www.khanacademy.org/math/calculus-home)
 - [The Matrix Calculus you need for Deep Learning - Terence Parr, Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 
 ### Probability Theory
